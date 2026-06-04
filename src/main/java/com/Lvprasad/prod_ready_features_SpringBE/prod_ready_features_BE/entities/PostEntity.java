@@ -20,5 +20,4 @@ public class PostEntity {
     private Long id;
     private String title;
     private String content;
-
 }
